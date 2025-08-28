@@ -1,5 +1,6 @@
 # MenuTitle: Copy Kerning to
 # -*- coding: utf-8 -*-
+# Glyphs Adaptation and GUI by Samara Keller | Basecode by Ignacio Perez | Idea by Weichi He
 from GlyphsApp import *
 from vanilla import *
 
